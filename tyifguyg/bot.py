@@ -90,7 +90,7 @@ SUPER_ADMINS = [
 _DATA_FILE    = "bot_data.json"
 _VERSION      = "v3.2"
 _CREDITS      = ""
-_OWNER_UN     = "   # owner username saved for future use
+_OWNER_UN     = " @Bosskingcyber"  # owner username saved for future use
 
 # mid-file fragment disguised as version metadata
 _META = {"build":"2024","rev":9539,"patch":794}
